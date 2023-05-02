@@ -1,0 +1,1 @@
+module: "github.com/Byndyusoft/devops-cue-prometheus-module"
