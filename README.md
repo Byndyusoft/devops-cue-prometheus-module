@@ -12,7 +12,7 @@ For sloth specs
 ```bash
 cue cmd -t env=${ENV} sloth
 ```
-For alers
+For alers(in proggress)
 ```bash
 cue cmd -t env=${ENV} alerts
 ```
@@ -23,3 +23,6 @@ kubectl apply -f ./_gen/
 ```
 
 ## TODO
+* Generate alerts
+* Pretty print all rules 
+* Full guide
